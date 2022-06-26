@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/xdai.e37299a8.png"
   },
   {
-    "revision": "a055e774452f15c06f9f589ed64c8be6",
+    "revision": "8e84c357c97520e5d1db443c8244b51b",
     "url": "/index.html"
   }
 ];
